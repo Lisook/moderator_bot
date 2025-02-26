@@ -1,6 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types, asyncio, filters
 
-TOKEN='Ваш токен'
+TOKEN='7622894942:AAGB2mlzkcttVzvkNq5KbAx3doR9xwXWUeQ' 
+
 
 WORDS=['Плохие слова']
 
